@@ -1,34 +1,27 @@
-# Hi there 👋, I'm Aldo!
 
-I'm a passionate **Full Stack Web Developer** with a background in **Java** and **React.js**. I enjoy building scalable and efficient web applications, both on the frontend and backend. 
+# 👋 Hi, I'm Aldo!
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 I'm Self Studied<br/>
+🎨 Making Blog about Life and Hobbies<br/>
+💭 Currently learning about Fullstack Engineering!<br/>
 
-## 🚀 About Me
-- 🌱 Full Stack Web Developer with a strong foundation in **Java** and **Spring Boot** for backend development.
-- 🎨 Proficient in **React.js** for building dynamic and responsive front-end interfaces.
-- 📚 Always learning new technologies and best practices to stay up-to-date with the web development landscape.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aldogerard_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reynaldogerard)
 
-## 💻 My Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ! ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Josegrd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Josegrd&theme=dark&hide_border=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aldogerard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- ## 🏆 GitHub Trophies -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Josegrd&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aldogerard&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-## 🌱 What I'm Currently Learning
-- Exploring **Laravel** to expand my backend development skills.
-- Improving front-end development with **React.js** by diving deeper into **Hooks**, **Context API**, and advanced state management.
+---
+[![](https://visitcount.itsvg.in/api?id=Josegrd&icon=6&color=9)](https://visitcount.itsvg.in)
 
-## 💼 Work Experience
-- **Junior Web Developer** with experience in building fullstack applications during my bootcamp at **Enigma** and various personal projects.
-
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reynaldogerard)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aldogerard12@gmail.com)
-
-Feel free to browse through my repositories and reach out if you'd like to collaborate on web development projects!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
